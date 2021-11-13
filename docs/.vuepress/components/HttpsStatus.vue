@@ -42,7 +42,7 @@ export default {
       method: "get",
       url: "https://energ-tech.it/wp-json/wp-site-health/v1/tests/https-status",
       headers: {
-        Authorization: "Basic SFJTRGV2OlZIOEJ6MFZZbWwzelFucnRDZVpLNTB5Uw==",
+        'Authorization': 'Basic SFJTRGV2OlVqZmd4NXpsejM3VFlqdDZuZnNEckJEYw==',
       },
     };
     axios(config)

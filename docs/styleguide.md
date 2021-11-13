@@ -335,6 +335,7 @@ The beauty of system fonts is that it matches what the current OS uses, so it ca
 
 ### Font Style
 <p class="f6 color-fg-default typostyle">Roboto</p>
+<div class="Box mt-4 px-4">
 <p id="fs" class="color-fg-muted" style="font-size:60px;">AaBbCc</p>
 <span id="fs" class="f6 color-fg-muted">
 ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>
@@ -342,45 +343,59 @@ abcdefghijklmnopqrstuvwxyz<br>
 0123456789<br>
 ~%!@#$%^&*-_=+<br>
  []{}()|\/<>‘’”,.;:?</span></p>
+</div>
 
  ### Font Weights
 
-<br>
-
-<p id="fs" class="color-fg-muted"  style="font-weight:100;">Roboto Regular 100<p>
-<p id="fs" class="color-fg-muted" style="font-weight:200;">Roboto Regular 200<p>
-<p id="fs" class="color-fg-muted"  style="font-weight:300;">Roboto Regular 300<p>
-<p id="fs" class="color-fg-muted" style="font-weight:400;">Roboto Regular 400<p>
-<p id="fs" class="color-fg-muted" style="font-weight:500;">Roboto Regular 500<p>
-<p id="fs" class="color-fg-muted" style="font-weight:600;">RobotoRegular 600<p>
-
-<ul class="ActionList ActionList--divided" role="list" aria-label="Menu description">
-  <li class="ActionList-item" role="listitem">
-    <span class="ActionList-content">
-      <span class="ActionList-item-label">Action list item</span>
-    </span>
-  </li>
-  <li class="ActionList-item" role="listitem">
-    <span class="ActionList-content">
-      <span class="ActionList-item-label">Action list item</span>
-    </span>
-  </li>
-  <li class="ActionList-item" role="listitem">
-    <span class="ActionList-content">
-      <span class="ActionList-item-label">Action list item</span>
-    </span>
-  </li>
+<ul class="Box mt-4">
+<li id="fs" class="color-fg-muted Box-row"  style="font-weight:100;">Roboto Regular 100</li>
+<li id="fs" class="color-fg-muted Box-row" style="font-weight:200;">Roboto Regular 200</li>
+<li id="fs" class="color-fg-muted Box-row"  style="font-weight:300;">Roboto Regular 300</li>
+<li id="fs" class="color-fg-muted Box-row" style="font-weight:400;">Roboto Regular 400</li>
+<li id="fs" class="color-fg-muted Box-row" style="font-weight:500;">Roboto Regular 500</li>
+<li id="fs" class="color-fg-muted Box-row" style="font-weight:600;">RobotoRegular 600</li>
 </ul>
 
 
 ### Headings
 
-<p id="fs" class="color-fg-muted" style="font-size:60px; font-weight:500;"><span class="f3-light ws-normal color-fg-default typostyle color-fg-accent mr-6">HEADING 1</span>Roboto w500 60</p>
-<p id="fs" class="color-fg-muted" style="font-size:40px; font-weight:400;"><span class="f3-light ws-normal color-fg-default typostyle color-fg-accent mr-6">HEADING 2</span>Roboto w400 40</p>
-<p id="fs" class="color-fg-muted" style="font-size:32px; font-weight:300;"><span class="f3-light ws-normal color-fg-default typostyle color-fg-accent mr-6">HEADING 3</span>Roboto w300 32</p>
-<p id="fs" class="color-fg-muted" style="font-size:28px; font-weight:300;"><span class="f3-light ws-normal color-fg-default typostyle color-fg-accent mr-6">HEADING 4</span> Roboto w300 28</p>
-<p id="fs" class="color-fg-muted" style="font-size:26px; font-weight:300;"><span class="f3-light ws-normal color-fg-default typostyle color-fg-accent mr-6">HEADING 5</span> Roboto w300 26</p>
-<p id="fs" class="color-fg-muted" style="font-size:24px; font-weight:300;"><span class="f3-light ws-normal color-fg-default typostyle color-fg-accent mr-6">HEADING 6</span> Roboto w300 24</p>
+<ul class="Box mt-4">
+<p id="fs" class="color-fg-muted Box-row d-flex flex-items-center" style="font-size:60px; font-weight:500;"><span class="f6 ws-normal color-fg-default typostyle mr-6 overflow-hidden flex-auto">HEADING 1</span>Roboto w500 60</p>
+<p id="fs" class="color-fg-muted Box-row d-flex flex-items-center" style="font-size:40px; font-weight:400;"><span class="f6 ws-normal color-fg-default typostyle  mr-6 overflow-hidden flex-auto">HEADING 2</span>Roboto w400 40</p>
+<p id="fs" class="color-fg-muted Box-row d-flex flex-items-center" style="font-size:32px; font-weight:300;"><span class="f6 ws-normal color-fg-default typostyle mr-6 overflow-hidden flex-auto">HEADING 3</span>Roboto w300 32</p>
+<p id="fs" class="color-fg-muted Box-row d-flex flex-items-center" style="font-size:28px; font-weight:300;"><span class="f6 ws-normal color-fg-default typostyle mr-6 overflow-hidden flex-auto">HEADING 4</span> Roboto w300 28</p>
+<p id="fs" class="color-fg-muted Box-row d-flex flex-items-center" style="font-size:26px; font-weight:300;"><span class="f6 ws-normal color-fg-default typostyle mr-6 overflow-hidden flex-auto">HEADING 5</span> Roboto w300 26</p>
+<p id="fs" class="color-fg-muted Box-row d-flex flex-items-center" style="font-size:24px; font-weight:300;"><span class="f6 ws-normal color-fg-default typostyle mr-6 overflow-hidden flex-auto">HEADING 6</span> Roboto w300 24</p>
+</ul>
+
+## Accessibility Screenshots
+(come vedono il sito persone affette dai diversi tipi di daltonismo)
+
+<!-- flex container -->
+<section class="d-flex flex-justify-between flex-wrap mt-2">
+<div class="p-1  my-1 tooltipped tooltipped-s tooltipped-multiline" aria-label="qualora sia deficitaria la sensibilità per il blu/giallo">
+<p class="text-mono text-uppercase">tritanopia</p>
+<img class="border color-border-accent-emphasis" alt="tritanopia" src="/images/accessibility_sim_tritanopia(noblue).png" width="320"  />
+</div>
+<div class="p-1  my-1 tooltipped tooltipped-s tooltipped-multiline" aria-label="qualora sia deficitaria la sensibilità per il rosso">
+<p class="text-mono text-uppercase">protanopia</p>
+<img class="border color-border-accent-emphasis" alt="protanopia" src="/images/accessibility_sim_protanopia(nored).png" width="320" />
+</div>
+<div class="p-1  my-1 tooltipped tooltipped-s tooltipped-multiline" aria-label="qualora sia deficitaria la sensibilità per il verde">
+<p class="text-mono text-uppercase">deutoranopia</p>
+<img class="border color-border-accent-emphasis" alt="deutoranopia" src="/images/accessibility_sim_deutoranopia(nogreen).png" width="320" />
+</div>
+<div class="p-1  my-1 tooltipped tooltipped-s tooltipped-multiline" aria-label="La bassa sensibilità al contrasto può essere sintomo di alcune patologie oculari come la cataratta, il glaucoma o la retinopatia diabetica.">
+<p class="text-mono text-uppercase">contrastloss</p>
+<img class="border color-border-accent-emphasis" alt="contrastloss" src="/images/accessibility_sim_contrastloss(nocontrast).png" width="320" />
+</div>
+<div class="p-1  my-1 tooltipped tooltipped-s tooltipped-multiline" aria-label="incapacità totale di percepire qualunque colore">
+<p class="text-mono text-uppercase">achromatopsia</p>
+<img class="border color-border-accent-emphasis" src="/images/accessibility_sim_achromatopsia_nocolor.png" width="300" />
+</div>
+</section>
+
+
 
 <style>
 
