@@ -17,28 +17,28 @@ SEO: 82
   <div class="col-6 col-md-3 float-left bg-gray-dark border rounded-3 border-4 border-white p-4  mb-1">
     <h1 class="text-center my-3">{{ $frontmatter.performance }}</h1>
     <span class="Progress">
-  <span class="Progress-item color-bg-danger-inverse" style="width:19%;"></span>
+  <span class="Progress-item color-bg-danger-emphasis" style="width:19%;"></span>
 </span>
 <p class="f5 text-center mt-2">PRESTAZIONI</p>
   </div>
   <div class="col-6 col-md-3  float-left bg-gray-dark border rounded-3 border-4 border-white p-4  mb-1">
     <h1 class="text-center my-3">{{ $frontmatter.accessibility }}</h1>
     <span class="Progress">
-  <span class="Progress-item color-bg-warning-inverse" style="width: 83%;"></span>
+  <span class="Progress-item color-bg-attention-inverse" style="width: 83%;"></span>
 </span>
 <p class="f5 text-center mt-2">ACCESSIBILITÀ</p>
   </div>
   <div class="col-6 col-sm-3  float-left bg-gray-dark border rounded-3 border-4 border-white p-4 mb-1">
       <h1 class="text-center my-3">{{ $frontmatter.bestpractice }}</h1>
     <span class="Progress">
-  <span class="Progress-item color-bg-success-inverse" style="width: 93%;"></span>
+  <span class="Progress-item  color-bg-success-emphasis" style="width: 93%;"></span>
 </span>
 <p class="f5 text-center mt-2">BEST PRACTICE</p>
   </div>
     <div class="col-6 col-md-3 float-left bg-gray-dark border rounded-3 border-4 border-white p-4 mb-1">
       <h1 class="text-center my-3">{{ $frontmatter.SEO }}</h1>
     <span class="Progress">
-  <span class="Progress-item color-bg-warning-inverse" style="width: 66%;"></span>
+  <span class="Progress-item color-bg-attention-inverse" style="width: 66%;"></span>
 </span>
 <p class="f5 text-center mt-2">SEO</p>
   </div>
@@ -303,11 +303,11 @@ Misura i cambi di layout durante l’intera durata della visita della pagina.
 
 Current application web files usage is `377MB` (97.16%)
 
-| File        | MB  |   %    |
-| ----------- | :-: | :----: |
-| wp-content  | 328 | 84.54% |
-| wp-includes | 38  | 9.79%  |
-| wp-admin    | 10  | 2.58%  |
+| File        |  MB   |   %    |
+| ----------- | :---: | :----: |
+| wp-content  |  328  | 84.54% |
+| wp-includes |  38   | 9.79%  |
+| wp-admin    |  10   | 2.58%  |
 
 ## Utilizzo Database
 

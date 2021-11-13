@@ -2379,7 +2379,7 @@
             </tr>
             <tr>
                 <td class="e">$_SERVER['HTTP_REFERER']</td>
-                <td class="v">https://reinnovame.com/</td>
+                <td class="v">https://energ-tech.it/</td>
             </tr>
             <tr>
                 <td class="e">$_SERVER['HTTP_USER_AGENT']</td>
@@ -2470,7 +2470,7 @@
             </tr>
             <tr>
                 <td class="e">$_SERVER['SCRIPT_URI']</td>
-                <td class="v">https://reinnovame.com/wp-load.php</td>
+                <td class="v">https://energ-tech.it/wp-load.php</td>
             </tr>
             <tr>
                 <td class="e">$_SERVER['PROTO']</td>

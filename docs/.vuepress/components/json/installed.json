@@ -1,5 +1,4 @@
-[
-    {
+[{
         "plugin": "akismet/akismet",
         "status": "active",
         "name": "Akismet Anti-Spam",
@@ -16,11 +15,9 @@
         "requires_php": "",
         "textdomain": "akismet",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/akismet/akismet"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/akismet/akismet"
+            }]
         }
     },
     {
@@ -40,11 +37,9 @@
         "requires_php": "",
         "textdomain": "cloudinary",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/cloudinary-image-management-and-manipulation-in-the-cloud-cdn/cloudinary"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/cloudinary-image-management-and-manipulation-in-the-cloud-cdn/cloudinary"
+            }]
         }
     },
     {
@@ -64,11 +59,9 @@
         "requires_php": "",
         "textdomain": "contact-form-7",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/contact-form-7/wp-contact-form-7"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/contact-form-7/wp-contact-form-7"
+            }]
         }
     },
     {
@@ -88,11 +81,9 @@
         "requires_php": "",
         "textdomain": "cookie-notice",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/cookie-notice/cookie-notice"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/cookie-notice/cookie-notice"
+            }]
         }
     },
     {
@@ -112,11 +103,9 @@
         "requires_php": "",
         "textdomain": "cf7-custom-spinner",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/cf7-custom-spinner/cf7-custom-spinner"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/cf7-custom-spinner/cf7-custom-spinner"
+            }]
         }
     },
     {
@@ -136,11 +125,9 @@
         "requires_php": "",
         "textdomain": "flamingo",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/flamingo/flamingo"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/flamingo/flamingo"
+            }]
         }
     },
     {
@@ -160,11 +147,9 @@
         "requires_php": "",
         "textdomain": "duracelltomi-google-tag-manager",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/duracelltomi-google-tag-manager/duracelltomi-google-tag-manager-for-wordpress"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/duracelltomi-google-tag-manager/duracelltomi-google-tag-manager-for-wordpress"
+            }]
         }
     },
     {
@@ -184,11 +169,9 @@
         "requires_php": "",
         "textdomain": "gtmetrix-for-wordpress",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/gtmetrix-for-wordpress/gtmetrix-for-wordpress"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/gtmetrix-for-wordpress/gtmetrix-for-wordpress"
+            }]
         }
     },
     {
@@ -208,11 +191,9 @@
         "requires_php": "",
         "textdomain": "hide-my-wp",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/hide-my-wp/index"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/hide-my-wp/index"
+            }]
         }
     },
     {
@@ -232,11 +213,9 @@
         "requires_php": "5.2",
         "textdomain": "insert-headers-and-footers",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/insert-headers-and-footers/ihaf"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/insert-headers-and-footers/ihaf"
+            }]
         }
     },
     {
@@ -256,11 +235,9 @@
         "requires_php": "",
         "textdomain": "instant-page",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/instant-page/instantpage"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/instant-page/instantpage"
+            }]
         }
     },
     {
@@ -280,11 +257,9 @@
         "requires_php": "",
         "textdomain": "logo-carousel-free",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/logo-carousel-free/main"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/logo-carousel-free/main"
+            }]
         }
     },
     {
@@ -304,11 +279,9 @@
         "requires_php": "",
         "textdomain": "malcare-security",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/malcare-security/malcare"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/malcare-security/malcare"
+            }]
         }
     },
     {
@@ -328,11 +301,9 @@
         "requires_php": "",
         "textdomain": "worker",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/worker/init"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/worker/init"
+            }]
         }
     },
     {
@@ -352,11 +323,9 @@
         "requires_php": "",
         "textdomain": "safe-svg",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/safe-svg/safe-svg"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/safe-svg/safe-svg"
+            }]
         }
     },
     {
@@ -376,11 +345,9 @@
         "requires_php": "",
         "textdomain": "salient-core",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/salient-core/plugin"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/salient-core/plugin"
+            }]
         }
     },
     {
@@ -400,11 +367,9 @@
         "requires_php": "",
         "textdomain": "salient-home-slider",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/salient-home-slider/plugin"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/salient-home-slider/plugin"
+            }]
         }
     },
     {
@@ -424,11 +389,9 @@
         "requires_php": "",
         "textdomain": "salient-nectar-slider",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/salient-nectar-slider/plugin"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/salient-nectar-slider/plugin"
+            }]
         }
     },
     {
@@ -448,11 +411,9 @@
         "requires_php": "",
         "textdomain": "salient-portfolio",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/salient-portfolio/plugin"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/salient-portfolio/plugin"
+            }]
         }
     },
     {
@@ -472,11 +433,9 @@
         "requires_php": "",
         "textdomain": "salient-shortcodes",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/salient-shortcodes/plugin"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/salient-shortcodes/plugin"
+            }]
         }
     },
     {
@@ -496,11 +455,9 @@
         "requires_php": "",
         "textdomain": "salient-social",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/salient-social/plugin"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/salient-social/plugin"
+            }]
         }
     },
     {
@@ -520,11 +477,9 @@
         "requires_php": "",
         "textdomain": "salient-widgets",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/salient-widgets/plugin"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/salient-widgets/plugin"
+            }]
         }
     },
     {
@@ -544,11 +499,9 @@
         "requires_php": "",
         "textdomain": "js_composer_salient",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/js_composer_salient/js_composer"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/js_composer_salient/js_composer"
+            }]
         }
     },
     {
@@ -568,11 +521,9 @@
         "requires_php": "",
         "textdomain": "slate-admin-theme",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/slate-admin-theme/slate-admin-theme"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/slate-admin-theme/slate-admin-theme"
+            }]
         }
     },
     {
@@ -592,11 +543,9 @@
         "requires_php": "5.6",
         "textdomain": "w3-total-cache",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/w3-total-cache/w3-total-cache"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/w3-total-cache/w3-total-cache"
+            }]
         }
     },
     {
@@ -616,11 +565,9 @@
         "requires_php": "",
         "textdomain": "white-label-cms",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/white-label-cms/wlcms-plugin"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/white-label-cms/wlcms-plugin"
+            }]
         }
     },
     {
@@ -640,11 +587,9 @@
         "requires_php": "",
         "textdomain": "wp-rest-api-authentication",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/wp-rest-api-authentication/miniorange-api-authentication"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/wp-rest-api-authentication/miniorange-api-authentication"
+            }]
         }
     },
     {
@@ -664,11 +609,9 @@
         "requires_php": "",
         "textdomain": "wp-performance-tester",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/wpperformancetester/wp-performance-tester"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/wpperformancetester/wp-performance-tester"
+            }]
         }
     },
     {
@@ -688,11 +631,9 @@
         "requires_php": "",
         "textdomain": "wp-quiz-pro",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/wp-quiz-pro/wp-quiz-pro"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/wp-quiz-pro/wp-quiz-pro"
+            }]
         }
     },
     {
@@ -712,11 +653,9 @@
         "requires_php": "",
         "textdomain": "duplicate-post",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/duplicate-post/duplicate-post"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/duplicate-post/duplicate-post"
+            }]
         }
     },
     {
@@ -736,11 +675,9 @@
         "requires_php": "5.6.20",
         "textdomain": "wordpress-seo",
         "_links": {
-            "self": [
-                {
-                    "href": "https://reinnovame.com/wp-json/wp/v2/plugins/wordpress-seo/wp-seo"
-                }
-            ]
+            "self": [{
+                "href": "https://energ-tech.it/wp-json/wp/v2/plugins/wordpress-seo/wp-seo"
+            }]
         }
     }
 ]

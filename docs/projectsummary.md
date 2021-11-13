@@ -59,7 +59,7 @@ Performance:
 
 <!--  <div class="Box d-flex flex-items-center box-shadow border-0 p-0 mb-4">
 
-<iframe class="Box-body flex-auto p-0 border rounded-3" src="https://reinnovame.com/" style="width:100%;border:none;height:60vh;" />
+<iframe class="Box-body flex-auto p-0 border rounded-3" src="https://energ-tech.it/" style="width:100%;border:none;height:60vh;" />
 
 </div> -->
 
@@ -72,7 +72,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 08/Giugno/2021 - 15/Giugno/2021<span class="Label-small rounded px-2 py-1 ml-2 anim-pulse color-bg-success text-white">N</span>
 </p>
 </div>
@@ -91,7 +91,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 31/Maggio/2021 - 08/Giugno/2021
 </p>
 </div>
@@ -104,7 +104,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 24/Maggio/2021 - 31/Maggio/2021
 </p>
 </div>
@@ -117,7 +117,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 17/Maggio/2021 - 23/Maggio/2021
 </p>
 </div>
@@ -130,7 +130,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 09/Maggio/2021 - 17/Maggio/2021
 </p>
 </div>
@@ -143,7 +143,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 02/Maggio/2021 - 09/Maggio/2021
 </p>
 </div>
@@ -156,7 +156,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 24/Aprile/2021 - 01/Maggio/2021
 </p>
 </div>
@@ -169,7 +169,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 19/Aprile/2021 - 27/Aprile/2021
 </p>
 </div>
@@ -182,7 +182,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 09/Aprile/2021 - 18/Aprile/2021
 </p>
 </div>
@@ -195,7 +195,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 31/Marzo/2021 - 08/Aprile/2021
 </p>
 </div>
@@ -208,7 +208,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 21/Marzo/2021 - 29/Marzo/2021
 </p>
 </div>
@@ -221,7 +221,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 15/Marzo/2021 - 20/Marzo/2021
 </p>
 </div>
@@ -234,7 +234,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 07/Marzo/2021 - 14/Marzo/2021
 </p>
 </div>
@@ -247,7 +247,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 22/Febbraio/2021 - 01/Marzo/2021
 </p>
 </div>
@@ -260,7 +260,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 14/Febbraio/2021 - 21/Febbraio/2021
 </p>
 </div>
@@ -273,7 +273,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 08/Febbraio/2021 - 14/Febbraio/2021
 </p>
 </div>
@@ -286,7 +286,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 31/Gennaio/2021 - 07/Febbraio/2021
 </p>
 </div>
@@ -298,7 +298,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 24/Gennaio/2021 - 31/Gennaio/2021
 </p>
 </div>
@@ -310,7 +310,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 16/Gennaio/2021 - 23/Gennaio/2021
 </p>
 </div>
@@ -322,7 +322,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 28/Dicembre/2020 - 04/Gennaio/2021
 </p>
 </div>
@@ -334,7 +334,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 27/Dicembre/2020 - 03/Gennaio/2021
 </p>
 </div>
@@ -354,7 +354,7 @@ Performance:
 <section class="Box-row">
 <div class="TableObject text-small ">
 <div class="TableObject-item TableObject-item--primary">
-<p class="color-text-primary">
+<p class=" color-fg-default">
 01/Dicembre/2020 - 29/Marzo/2021 <span class="Label-small rounded px-2 py-1 ml-2 anim-pulse color-bg-success text-white">N</span>
 </p>
 </div>
@@ -479,29 +479,29 @@ Il sito web è potenzialmente vulnerabile
 
 ### Cronologia delle scansioni
 
-| Date                    |                           Status                           |
-| :---------------------- | :--------------------------------------------------------: |
-| 11-June-2021, 18:09     |  <span class="color-text-success"> Verified clean </span>  |
-| 10-June-2021, 18:32     |  <span class="color-text-success"> Verified clean </span>  |
-| 05/Giugno/2021, 10:26   |  <span class="color-text-success"> Verified clean </span>  |
-| 30/Maggio/2021, 18:13   |  <span class="color-text-success"> Verified clean </span>  |
-| 22/Maggio/2021, 09:48   |  <span class="color-text-success"> Verified clean </span>  |
-| 15/Maggio/2021, 18:14   |  <span class="color-text-success"> Verified clean </span>  |
-| 27/Aprile/2021, 20:03   |  <span class="color-text-success"> Verified clean </span>  |
-| 31/Marzo/2021, 15:54    |  <span class="color-text-success"> Verified clean </span>  |
-| 26-March-2021, 08:19    |  <span class="color-text-success"> Verified clean </span>  |
-| 24-March-2021, 15:07    |  <span class="color-text-success"> Verified clean </span>  |
-| 12-March-2021, 08:57    |  <span class="color-text-success"> Verified clean </span>  |
-| 11-March-2021, 18:46    |  <span class="color-text-success"> Verified clean </span>  |
-| 07-March-2021, 12:35    |  <span class="color-text-success"> Verified clean </span>  |
-| 21-February-2021, 19:51 |  <span class="color-text-success"> Verified clean </span>  |
-| 07-February-2021, 08:49 |  <span class="color-text-success"> Verified clean </span>  |
-| 31-January-2021, 09:45  |  <span class="color-text-success"> Verified clean </span>  |
-| 18-January-2021, 14:46  |  <span class="color-text-success"> Verified clean </span>  |
-| 14-January-2021, 11:00  |  <span class="color-text-success"> Verified clean </span>  |
-| 14-January-2021, 10:32  |  <span class="color-text-success"> Verified clean </span>  |
-| 03-January-2021, 13:22  |  <span class="color-text-success"> Verified clean </span>  |
-| 03-January-2021, 10:55  | <span class="color-text-danger"> Problems Detected </span> |
+| Date                    |                          Status                          |
+| :---------------------- | :------------------------------------------------------: |
+| 11-June-2021, 18:09     |  <span class="color-fg-success"> Verified clean </span>  |
+| 10-June-2021, 18:32     |  <span class="color-fg-success"> Verified clean </span>  |
+| 05/Giugno/2021, 10:26   |  <span class="color-fg-success"> Verified clean </span>  |
+| 30/Maggio/2021, 18:13   |  <span class="color-fg-success"> Verified clean </span>  |
+| 22/Maggio/2021, 09:48   |  <span class="color-fg-success"> Verified clean </span>  |
+| 15/Maggio/2021, 18:14   |  <span class="color-fg-success"> Verified clean </span>  |
+| 27/Aprile/2021, 20:03   |  <span class="color-fg-success"> Verified clean </span>  |
+| 31/Marzo/2021, 15:54    |  <span class="color-fg-success"> Verified clean </span>  |
+| 26-March-2021, 08:19    |  <span class="color-fg-success"> Verified clean </span>  |
+| 24-March-2021, 15:07    |  <span class="color-fg-success"> Verified clean </span>  |
+| 12-March-2021, 08:57    |  <span class="color-fg-success"> Verified clean </span>  |
+| 11-March-2021, 18:46    |  <span class="color-fg-success"> Verified clean </span>  |
+| 07-March-2021, 12:35    |  <span class="color-fg-success"> Verified clean </span>  |
+| 21-February-2021, 19:51 |  <span class="color-fg-success"> Verified clean </span>  |
+| 07-February-2021, 08:49 |  <span class="color-fg-success"> Verified clean </span>  |
+| 31-January-2021, 09:45  |  <span class="color-fg-success"> Verified clean </span>  |
+| 18-January-2021, 14:46  |  <span class="color-fg-success"> Verified clean </span>  |
+| 14-January-2021, 11:00  |  <span class="color-fg-success"> Verified clean </span>  |
+| 14-January-2021, 10:32  |  <span class="color-fg-success"> Verified clean </span>  |
+| 03-January-2021, 13:22  |  <span class="color-fg-success"> Verified clean </span>  |
+| 03-January-2021, 10:55  | <span class="color-fg-danger"> Problems Detected </span> |
 
 ## Prestazioni
 
@@ -521,18 +521,18 @@ Il sito web è potenzialmente vulnerabile
 
 <div class="container-lg clearfix">
 <div class="col-md-6 col-12 float-left p-4">
-<h1 class="color-text-success" style="font-size:12rem;">{{ $frontmatter.Performance.PageSpeed.score }}<span class="text-small">({{ $frontmatter.Performance.PageSpeed.percent }})</span></h1>
+<h1 class="color-fg-success" style="font-size:12rem;">{{ $frontmatter.Performance.PageSpeed.score }}<span class="text-small">({{ $frontmatter.Performance.PageSpeed.percent }})</span></h1>
 Valutazione PageSpeed
 <span class="Progress">
-<span class="Progress-item color-bg-success-inverse" style="width: 93%;"></span>
+<span class="Progress-item  color-bg-success-emphasis" style="width: 93%;"></span>
 </span>
 <span class="text-small text-gray">Controllo Precedente: {{ $frontmatter.Performance.PageSpeed.previous }}</span>
 </div>
 <div class="col-md-6 col-12 float-left p-4">
-<h1 class="color-text-warning-inverse" style="color:#ffd33d; font-size:12rem;">{{ $frontmatter.Performance.YSlow.score }}<span class="text-small">({{ $frontmatter.Performance.YSlow.percent }})</span></h1>
+<h1 class="color-fg-attention-inverse" style="color:#ffd33d; font-size:12rem;">{{ $frontmatter.Performance.YSlow.score }}<span class="text-small">({{ $frontmatter.Performance.YSlow.percent }})</span></h1>
 Valutazione YSlow
 <span class="Progress">
-<span class="Progress-item color-bg-warning-inverse" style="width: 79%;"></span>
+<span class="Progress-item color-bg-attention-inverse" style="width: 79%;"></span>
 </span>
 <span class="text-small text-gray">Controllo precedente: {{ $frontmatter.Performance.YSlow.previous }}</span>
 </div>
@@ -689,7 +689,7 @@ Valutazione YSlow
 </div>
 <ul>
 <li class="Box-row">
-website address:<span class="mx-2 branch-name"><a href="https://reinnovame.com">https://reinnovame.com/</a></span>
+website address:<span class="mx-2 branch-name"><a href="https://energ-tech.it">https://energ-tech.it/</a></span>
 </li>
 <li class="Box-row">
 Hostname: reinnovame.com
@@ -729,15 +729,15 @@ IP Address:  81.88.52.53
 
 ### Main Team
 
-|             Role              |    contact    | Name |
-| :---------------------------: | :-----------: | :--: |
-| :product_owner:Product_Owner: | po@hrslab.com |      |
-|  :scrum_master:Scrum_Master:  | sm@hrslab.com |      |
-|          UX Designer          | ux@hrslab.com |      |
-|          UI Designer          | ui@hrslab.com |      |
-|        Front-End Eng.         | fe@hrslab.com |      |
-|         Back-End Eng.         | be@hrslab.com |      |
-|         Quality Test          | qa@hrslab.com |      |
+|             Role              |    contact    | Name  |
+| :---------------------------: | :-----------: | :---: |
+| :product_owner:Product_Owner: | po@hrslab.com |       |
+|  :scrum_master:Scrum_Master:  | sm@hrslab.com |       |
+|          UX Designer          | ux@hrslab.com |       |
+|          UI Designer          | ui@hrslab.com |       |
+|        Front-End Eng.         | fe@hrslab.com |       |
+|         Back-End Eng.         | be@hrslab.com |       |
+|         Quality Test          | qa@hrslab.com |       |
 
 #### Stakeholders
 
@@ -749,13 +749,13 @@ IP Address:  81.88.52.53
 
 #### Supporting Team
 
-|        Role        |     contact      | Name |
-| :----------------: | :--------------: | :--: |
-|     Specialist     | spec@support.com |      |
-| Independent Tester | test@support.com |      |
-|   Domain Expert    | dom@support.com  |      |
-|  Technical Expert  | tech@support.com |      |
-|   Integrator SIT   | sit@support.com  |      |
+|        Role        |     contact      | Name  |
+| :----------------: | :--------------: | :---: |
+|     Specialist     | spec@support.com |       |
+| Independent Tester | test@support.com |       |
+|   Domain Expert    | dom@support.com  |       |
+|  Technical Expert  | tech@support.com |       |
+|   Integrator SIT   | sit@support.com  |       |
 
 </div>
 

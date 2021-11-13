@@ -1,7 +1,7 @@
 module.exports = {
     title: "Energ-Tech",
     head: [
-        ['link', { rel: 'stylesheet', href: 'https://unpkg.com/@primer/css@^16.0.0/dist/primer.css' }],
+        ['link', { rel: 'stylesheet', href: 'https://unpkg.com/@primer/css@^18.2.0/dist/primer.css' }],
         ["script", { src: "https://cdn.auth0.com/js/auth0-spa-js/1.13/auth0-spa-js.production.js" }]
     ],
 

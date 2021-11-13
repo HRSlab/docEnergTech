@@ -24,7 +24,7 @@
         <div>
           <span class="text-small">{{ plugin.Date }}</span>
           <h4 class="color-text-scondary">{{ plugin.Plugin }}</h4>
-          <p class="text-small color-text-tertiary">{{ plugin.Version }}</p>
+          <p class="text-small color-fg-muted">{{ plugin.Version }}</p>
         </div>
       </div>
     </div>
@@ -36,7 +36,7 @@ import plugins from "./json/plugins.json";
 export default {
   data() {
     return {
-      plugins: plugins.plugins
+      plugins: plugins.plugins,
     };
   },
 };

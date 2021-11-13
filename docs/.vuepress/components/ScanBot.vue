@@ -1,37 +1,45 @@
 <template>
-<div
+  <div
     data-color-mode="auto"
     data-light-theme="light"
     data-dark-theme="dark_dimmed"
-class="Box my-2 py-2 color-bg-secondary">
-<div class="mx-auto d-flex flex-justify-center">
-<div class="Box-row border-0 d-inline-flex flex-justify-between flex-items-center  mx-auto p-1"
-style="width: 90%; max-width: 180px;"
-><span class="scanbeat" v-for="n in 18" :key="n">{{ n }} </span>
-</div>
-</div>
-</div>
+    class="Box my-2 py-2 color-bg-subtle"
+  >
+    <div class="mx-auto d-flex flex-justify-center">
+      <div
+        class="
+          Box-row
+          border-0
+          d-inline-flex
+          flex-justify-between flex-items-center
+          mx-auto
+          p-1
+        "
+        style="width: 90%; max-width: 180px"
+      >
+        <span class="scanbeat" v-for="n in 18" :key="n">{{ n }} </span>
+      </div>
+    </div>
+  </div>
 </template>
 
 <script>
-export default {
-
-};
-
+export default {};
 </script>
 
 <style>
-
 .scanbeat {
-    width: 8px;
-    height: 16px;
-    background-color: #BADA55;
-    border-radius: 2px;
-    margin: 0;
-    color: transparent;
-    opacity: 1;
-	-webkit-animation: fade-in 2000ms cubic-bezier(0.390, 0.575, 0.565, 1.000) 250ms infinite forwards;
-	        animation: fade-in 2000ms cubic-bezier(0.390, 0.575, 0.565, 1.000) 250ms infinite forwards;
+  width: 8px;
+  height: 16px;
+  background-color: #bada55;
+  border-radius: 2px;
+  margin: 0;
+  color: transparent;
+  opacity: 1;
+  -webkit-animation: fade-in 2000ms cubic-bezier(0.39, 0.575, 0.565, 1) 250ms
+    infinite forwards;
+  animation: fade-in 2000ms cubic-bezier(0.39, 0.575, 0.565, 1) 250ms infinite
+    forwards;
 }
 
 .scanbeat:nth-child(1) {
@@ -106,12 +114,9 @@ export default {
   animation-delay: 1800ms;
 }
 
-
-
 @keyframes fade-in {
   to {
     opacity: 0;
   }
 }
-
 </style>

@@ -3,7 +3,7 @@
     data-color-mode="auto"
     data-light-theme="light"
     data-dark-theme="dark"
-    class="Container border rounded py-4 px-2 color-bg-canvas"
+    class="Container border rounded py-4 px-2 color-bg-default"
   >
     <div class="Subhead ml-6">
       <h1 class="Subhead-heading">Ottimizzazione</h1>
@@ -27,11 +27,11 @@
           m-2
           col-sm-12 col-md-3
           p-3
-          color-bg-tertiary color-shadow-medium
+          color-bg-subtle color-shadow-medium
           anim-hover-grow
         "
       >
-        <h1 class="color-text-link">{{ $frontmatter.Optimization.spam }}</h1>
+        <h1 class="color-fg-accent">{{ $frontmatter.Optimization.spam }}</h1>
         <p class="">Commenti Spam</p>
       </div>
       <div
@@ -42,11 +42,11 @@
           m-2
           col-sm-12 col-md-3
           p-3
-          color-bg-tertiary color-shadow-extra-large
+          color-bg-subtle color-shadow-extra-large
           anim-hover-grow
         "
       >
-        <h1 class="color-text-link">
+        <h1 class="color-fg-accent">
           {{ $frontmatter.Optimization.revision }}
         </h1>
         <p class="">Revisioni Post</p>
@@ -59,11 +59,11 @@
           m-2
           col-sm-12 col-md-3
           p-3
-          color-bg-tertiary color-shadow-extra-large
+          color-bg-subtle color-shadow-extra-large
           anim-hover-grow
         "
       >
-        <h1 class="color-text-link">
+        <h1 class="color-fg-accent">
           {{ $frontmatter.Optimization.overhead }} KB
         </h1>
         <p class="">Database Overhead</p>

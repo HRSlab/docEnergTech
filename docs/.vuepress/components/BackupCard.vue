@@ -3,7 +3,7 @@
     data-color-mode="auto"
     data-light-theme="light"
     data-dark-theme="dark"
-    class="Box p-4 color-bg-secondary my-2"
+    class="Box p-4 color-bg-subtle my-2"
   >
     <div class="Subhead p-2">
       <div class="Subhead-heading">Backup</div>
@@ -14,14 +14,14 @@
             rounded-1
             px-2
             py-1
-            color-bg-success-inverse color-text-white
+            color-bg-success-emphasis color-fg-on-emphasis
           "
           >{{ $frontmatter.Backup.latest }}</span
         >
       </div>
       <p class="Subhead-description text-small">
         Prossimo backup tra
-        <span class="color-text-link">
+        <span class="color-fg-accent">
           {{
             Math.abs(
               new Date(
@@ -48,7 +48,7 @@
       <div class="Subhead-heading f3">Dimensioni</div>
     </div>
 
-    <div class="Box my-2 color-bg-info anim-hover-grow">
+    <div class="Box my-2 color-bg-accent anim-hover-grow">
       <p class="f5 p-2 m-0">
         <svg
           class="octicon archive mr-2"

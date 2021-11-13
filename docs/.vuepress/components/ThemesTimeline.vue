@@ -3,12 +3,12 @@
     data-color-mode="auto"
     data-light-theme="light"
     data-dark-theme="dark"
-    class="color-bg-canvas"
+    class="color-bg-default"
   >
     <div class="TimelineItem text-small" v-for="i in themes" :key="i">
-      <div class="TimelineItem-badge color-bg-info">
+      <div class="TimelineItem-badge color-bg-accent">
         <svg
-          class="octicon octicon-git-merge color-text-link"
+          class="octicon octicon-git-merge color-fg-accent"
           viewBox="0 0 14 16"
           version="1.1"
           width="14"
@@ -22,18 +22,12 @@
         </svg>
       </div>
 
-      <div class="TimelineItem-body lh-sm-condensed mx-2"><span class="Label mr-1 Label--info m-2 float-right">Tema</span>
-        <div
-          class="
-            p-2
-            color-bg-info
-            rounded
-            color-shadow-medium
-          "
-        >
+      <div class="TimelineItem-body lh-sm-condensed mx-2">
+        <span class="Label mr-1 Label--info m-2 float-right">Tema</span>
+        <div class="p-2 color-bg-accent rounded color-shadow-medium">
           <span class="text-small">{{ i.Date }}</span>
           <h4 class="f4 color-text-scondary mt-1">{{ i.Theme }}</h4>
-          <p class="text-small color-text-tertiary mt-1">
+          <p class="text-small color-fg-muted mt-1">
             <span class="Label Label--danger mr-1 text-small">{{
               i.Previous
             }}</span>
@@ -52,7 +46,7 @@ import themes from "./json/themes.json";
 export default {
   data() {
     return {
-      themes: themes.themes
+      themes: themes.themes,
     };
   },
 };
