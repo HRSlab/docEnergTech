@@ -309,9 +309,26 @@ colorsystem:
   </div>
 </div>
 
-### Sfumature
+### Tinte
+
+<BlankSlate>
+<h2>Contenuto Non Disponibile</h2>
+<p>Not Specified</p>
+</BlankSlate>
+
+### Toni
+
+<BlankSlate>
+<h2>Contenuto Non Disponibile</h2>
+<p>Not Specified</p>
+</BlankSlate>
 
 ### Gradienti
+
+<BlankSlate>
+<h2>Contenuto Non Disponibile</h2>
+<p>Not Specified</p>
+</BlankSlate>
 
 ## Tipografia
 
@@ -368,8 +385,26 @@ abcdefghijklmnopqrstuvwxyz<br>
 <p id="fs" class="color-fg-muted Box-row d-flex flex-items-center" style="font-size:24px; font-weight:300;"><span class="f6 ws-normal color-fg-default typostyle mr-6 overflow-hidden flex-auto">HEADING 6</span> Roboto w300 24</p>
 </ul>
 
+### Corpo del Testo
+
+<div class="Box mt-4 p-4">
+<p id="fs" class="color-fg-muted" style="font-size:30px; line-height=50px;"> Lorem ipsum dolor sit amet, vel accumsan liberavisse ex, ea nec elaboraret interpretaris, sed diceret concludaturque no...</p>
+<p class="Box-row text-small text-right">Paragraph Text | Roboto Regular - Weight 400 - 30px</p>
+</div>
+
+### Testo Aggiuntivo
+
+<div class="Box mt-4 p-4">
+<div class="d-flex flex-items-start">
+<h4 id="fs" class="color-fg-muted mr-4 col-6" style="font-style:italic; color:#2B2727 !important;  font-size:22px; font-weight:200;">Some Title</h4>
+<p id="fs" class="color-fg-muted ml-6 float-right col-12" style="font-size:24px; color:#2B2727 !important; font-weight:200;  line-height=50px;"> Lorem ipsum dolor sit amet, vel accumsan liberavisse ex, ea nec elaboraret interpretaris, sed diceret concludaturque no...</p>
+</div>
+<p class="Box-row text-small text-right">Additional Text | Roboto Regular Italic - Weight 200 - 24px</p>
+</div>
+
+
 ## Accessibility Screenshots
-(come vedono il sito persone affette dai diversi tipi di daltonismo)
+Simulazione della visione dell'utente affetto da diverse patologie legate alla visione e alla percezione dei colori.
 
 <!-- flex container -->
 <section class="d-flex flex-justify-between flex-wrap mt-2">

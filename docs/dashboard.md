@@ -22,8 +22,8 @@ ySlow:
   result: 64%
   previous: C  (71%)
 Backup:
-  latest: 14 Ottobre 2021
-  next: 2021-11-14
+  latest: 14 Novembre 2021
+  next: 2021-12-14
   details: [ "OceanWP v3.0.7", "Versione WP: 5.8.1", "Plugins: 34", "Numero di Posts: 1", "Commenti Approvati: 0" ]
   total:  393.63
   files: 272.39
@@ -62,14 +62,14 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
 "datasets": [
 {
 "label": "Tempo di Caricamento (s)",
-"data": [4, 4, 4, 4.1, 4.3, 4, 4.5, 4.3, 4.2, 4 ],
+"data": [4, 4, 4, 4.1, 4.3, 4, 4.5, 4.3, 4.2, 4.5, 4, 2.8, 3.6, 3.7 ],
 "backgroundColor": "rgba(186, 218, 85, 0.4)",
 "borderColor": "#bada55",
 "borderWidth": 1
 },
 {
 "label": "Dimensione Pagina (MB)",
-"data": [3.56, 3.54, 3.54, 3.55, 3.54, 3.54, 3.54, 3.54, 3.55, 3.55 ],
+"data": [3.56, 3.54, 3.54, 3.55, 3.54, 3.54, 3.54, 3.54, 3.55, 3.55, 3.56, 3.55, 3.82, 3.54 ],
 "backgroundColor": "rgba(117,85,218, 0.4)",
 "borderColor": "#7555da",
 "borderWidth": 1

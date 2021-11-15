@@ -58,7 +58,7 @@ module.exports = {
                 link: '/maintenance/'
             },
             { text: "Dettagli", link: '/technicaldetails/' },
-            { text: "Analisi Tecnica", link: '/sonar/' },
+            { text: "Style Guide", link: '/styleguide/' },
             { text: "Contatti", link: '/contactus/' },
             { text: "Esci", link: 'https://dev-zl1ksw63.eu.auth0.com/v2/logout?returnTo=https://docs.energtech.hrslab.com/', target: '_self', rel: false },
         ],
