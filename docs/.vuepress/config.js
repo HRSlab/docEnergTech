@@ -37,6 +37,12 @@ module.exports = {
                 user: 'energtech'
             },
         ],
+        [
+            '@vuepress/google-analytics',
+            {
+                'ga': 'G-JFCKH0J0G8' // UA-00000000-0
+            }
+        ],
         ['vuepress-plugin-mermaidjs']
     ],
 
@@ -73,4 +79,6 @@ module.exports = {
             rel: ''
         },
     },
+};
+},
 };
