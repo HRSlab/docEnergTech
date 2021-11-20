@@ -1,6 +1,6 @@
 <template>
   <section
-    data-color-mode="auto"
+    data-color-mode="dark"
     data-light-theme="light"
     data-dark-theme="dark"
     class="color-bg-default"
@@ -27,7 +27,9 @@
           class="
             anim-hover-grow
             p-2
-            color-bg-subtle
+            color-bg-overlay
+            color-border-muted
+            border
             rounded
             color-shadow-medium
           "
@@ -39,12 +41,19 @@
           >
             HRS lab Plugin
           </h4>
+          <div v-else-if="i.Theme">
+                  <span class="IssueLabel mr-1 color-bg-attention-emphasis color-fg-on-emphasis m-2 float-right">Tema</span>
+          <h4 class="f4 color-text-scondary mt-1">{{ i.Theme }}</h4>
+        </div>
           <h4 v-else class="f4 color-text-scondary mt-1">{{ i.Plugin }}</h4>
+
+
+
           <p class="text-small color-fg-muted mt-1">
-            <span class="Label Label--danger mr-1 text-small">{{
+            <span class="Counter Counter--secondary mr-1 text-small">{{
               i.Previous
             }}</span>
-            <span class="Label Label--success mr-1 text-small">{{
+            <span class="Counter Counter--primary mr-1 text-small">{{
               i.Latest
             }}</span>
           </p>

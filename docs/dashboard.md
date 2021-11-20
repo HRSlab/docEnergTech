@@ -8,28 +8,28 @@ copyright:
 Optimization:
   spam: 0
   revision:  0
-  overhead: 464
+  overhead: 598.1
 Perfomance:
-  date: 2021-11-11
-  loadTime: 3.19
+  date: 2021-11-20
+  loadTime: 4.11
   Region: London (UK)
 pageSpeed:
-  grade: B
-  result: 81%
+  grade: D
+  result: 68%
   previous: B (81%)
 ySlow:
   grade: D
   result: 64%
-  previous: C  (71%)
+  previous: D  (64%)
 Backup:
-  latest: 14 Novembre 2021
-  next: 2021-12-14
-  details: [ "OceanWP v3.0.7", "Versione WP: 5.8.1", "Plugins: 34", "Numero di Posts: 1", "Commenti Approvati: 0" ]
-  total:  393.63
-  files: 272.39
-  db: 123.24
+  latest: 20 Novembre 2021
+  next: 2021-12-20
+  details: [ "OceanWP v3.1.1", "Versione WP: 5.8.2", "Plugins: 28", "Numero di Posts: 2", "Commenti Approvati: 0" ]
+  total:  393.72
+  files: 270.04
+  db: 123.32
 Security:
-  latest: 2021-11-10T08:40:14
+  latest: 2021-11-20T14:23:57
   Checks: [ "Malware: Clean", "Vulnerabilities: Clean", "WebTrust: Clean" ]
 Availability:
   up: 100
@@ -62,14 +62,14 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
 "datasets": [
 {
 "label": "Tempo di Caricamento (s)",
-"data": [4, 4, 4, 4.1, 4.3, 4, 4.5, 4.3, 4.2, 4.5, 4, 2.8, 3.6, 3.7 ],
+"data": [4, 4, 4, 4.1, 4.3, 4, 4.5, 4.3, 4.2, 4.5, 4, 2.8, 3.6, 3.7, 3.5, 3.5, 3.7, 3.6, 9.5 ],
 "backgroundColor": "rgba(186, 218, 85, 0.4)",
 "borderColor": "#bada55",
 "borderWidth": 1
 },
 {
 "label": "Dimensione Pagina (MB)",
-"data": [3.56, 3.54, 3.54, 3.55, 3.54, 3.54, 3.54, 3.54, 3.55, 3.55, 3.56, 3.55, 3.82, 3.54 ],
+"data": [3.56, 3.54, 3.54, 3.55, 3.54, 3.54, 3.54, 3.54, 3.55, 3.55, 3.56, 3.55, 3.82, 3.54, 3.67, 3.58, 3.58, 3.72, 4.04 ],
 "backgroundColor": "rgba(117,85,218, 0.4)",
 "borderColor": "#7555da",
 "borderWidth": 1
@@ -92,6 +92,24 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
 }
 ```
 </ChartBox>
+
+<div class="border color-bg-subtle my-4" >
+  <p class="f5 pl-6 pt-2">Video Test <span class="text-small Label Label--inline">2021-11-20</span> </p>
+  <div class="d-flex flex-wrap flex-justify-around">
+      <video width="320" height="240" controls autoplay>
+          <source src="/browsertime-results/energ-tech.it/2021-11-20T132942+0000/pages/energ-tech_it/data/video/1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+          <video  width="320" height="240" controls autoplay>
+          <source src="/browsertime-results/energ-tech.it/2021-11-20T132942+0000/pages/energ-tech_it/data/video/1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+          <video  width="320" height="240" controls autoplay>
+          <source src="/browsertime-results/energ-tech.it/2021-11-20T132942+0000/pages/energ-tech_it/data/video/1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+  </div>
+</div>
 
 <OptimizationWidget />
 

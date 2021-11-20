@@ -1,5 +1,33 @@
 {
     "plugins": [{
+            "Theme": "OceanWP",
+            "Previous": "3.1.0",
+            "Latest": "3.1.1",
+            "Date": "19/Novembre/2021"
+        }, {
+            "Plugin": "WordPress REST API Authentication",
+            "Previous": "1.6.4",
+            "Latest": "1.6.5",
+            "Date": "17/Novembre/2021"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "17.5",
+            "Latest": "17.6",
+            "Date": "16/Novembre/2021"
+        }, {
+            "Plugin": "Elementor",
+            "Previous": "3.4.7",
+            "Latest": "3.4.8",
+            "Date": "16/Novembre/2021"
+        },
+        {
+            "Theme": "OceanWP",
+            "Previous": "3.0.7",
+            "Latest": "3.1.0",
+            "Date": "10/Novembre/2021"
+        },
+        {
             "Plugin": "Ocean Extra",
             "Previous": "1.8.3",
             "Latest": "1.9.0",
