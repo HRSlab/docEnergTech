@@ -1,5 +1,56 @@
 {
     "plugins": [{
+            "Plugin": "Yoast SEO",
+            "Previous": "17.6",
+            "Latest": "17.7",
+            "Date": "30/Novembre/2021"
+        }, {
+            "Plugin": "Elementor Addon Elements",
+            "Previous": "1.11.11",
+            "Latest": "1.11.12",
+            "Date": "29/Novembre/2021"
+        }, {
+            "Plugin": "Contact Form 7",
+            "Previous": "5.5.2",
+            "Latest": "5.5.3",
+            "Date": "28/Novembre/2021"
+        }, {
+            "Plugin": "Cookie Notice & Compliance for GDPR / CCPA",
+            "Previous": "2.1.5",
+            "Latest": "2.2.0",
+            "Date": "27/Novembre/2021"
+        }, {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.0",
+            "Latest": "4.7.1",
+            "Date": "26/Novembre/2021"
+        }, {
+            "Plugin": "Hide My WP Ghost Lite",
+            "Previous": "4.1.09",
+            "Latest": "4.1.10",
+            "Date": "25/Novembre/2021"
+        }, {
+            "Plugin": "WP Crontrol",
+            "Previous": "1.11.0",
+            "Latest": "1.12.0",
+            "Date": "24/Novembre/2021"
+        }, {
+            "Plugin": "W3 Total Cache",
+            "Previous": "2.1.9",
+            "Latest": "2.2.0",
+            "Date": "24/Novembre/2021"
+        }, {
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.6.1",
+            "Latest": "4.7.0",
+            "Date": "24/Novembre/2021"
+        },
+        {
+            "Plugin": "Ocean Extra",
+            "Previous": "1.9.0",
+            "Latest": "1.9.1",
+            "Date": "24/Novembre/2021"
+        }, {
             "Theme": "OceanWP",
             "Previous": "3.1.0",
             "Latest": "3.1.1",
