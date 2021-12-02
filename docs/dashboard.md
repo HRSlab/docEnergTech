@@ -8,7 +8,7 @@ copyright:
 Optimization:
   spam: 0
   revision:  0
-  overhead: 598.1
+  overhead: 1.22
 Perfomance:
   date: 2021-11-20
   loadTime: 4.11
@@ -62,14 +62,17 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
 "datasets": [
 {
 "label": "Tempo di Caricamento (s)",
-"data": [4, 4, 4, 4.1, 4.3, 4, 4.5, 4.3, 4.2, 4.5, 4, 2.8, 3.6, 3.7, 3.5, 3.5, 3.7, 3.6, 9.5 ],
+"data": [4, 4, 4, 4.1, 4.3, 4, 4.5, 4.3, 4.2, 4.5, 4, 2.8, 3.6, 3.7, 3.5, 3.5, 3.7, 3.6, 9.5, 4.0, 4.1, 4, 4.3, 4.3, 4.5, 2.8, 3.1, 9.5, 9.4, 9.6, 9.6 ],
 "backgroundColor": "rgba(186, 218, 85, 0.4)",
 "borderColor": "#bada55",
 "borderWidth": 1
 },
 {
 "label": "Dimensione Pagina (MB)",
-"data": [3.56, 3.54, 3.54, 3.55, 3.54, 3.54, 3.54, 3.54, 3.55, 3.55, 3.56, 3.55, 3.82, 3.54, 3.67, 3.58, 3.58, 3.72, 4.04 ],
+"data": [ 3.56, 3.54, 3.54, 3.55, 3.54, 3.54, 3.54, 3.54, 3.55, 3.55,
+          3.56, 3.55, 3.82, 3.54, 3.67, 3.58, 3.58, 3.72, 4.04, 3.54,
+          3.54, 3.54, 3.56, 3.68, 3.86, 3.54, 3.56, 4.04, 4, 4.04, 4.04
+        ],
 "backgroundColor": "rgba(117,85,218, 0.4)",
 "borderColor": "#7555da",
 "borderWidth": 1
