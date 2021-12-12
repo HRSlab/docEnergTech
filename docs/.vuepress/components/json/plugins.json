@@ -1,5 +1,60 @@
 {
     "plugins": [{
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.3",
+            "Latest": "4.7.4",
+            "Date": "10/Dicembre/2021"
+        },{
+            "Plugin": "White Label CMS",
+            "Previous": "2.2.5",
+            "Latest": "2.2.6",
+            "Date": "09/Dicembre/2021"
+        },{
+            "Plugin": "W3 Total Cache",
+            "Previous": "2.2.0",
+            "Latest": "2.2.1",
+            "Date": "09/Dicembre/2021"
+        },{
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.2",
+            "Latest": "4.7.3",
+            "Date": "09/Dicembre/2021"
+        },{
+            "Plugin": "Cookie Notice & Compliance for GDPR / CCPA",
+            "Previous": "2.2.0",
+            "Latest": "2.2.1",
+            "Date": "09/Dicembre/2021"
+        },{
+            "Plugin": "Simple Custom CSS and JS",
+            "Previous": "3.38",
+            "Latest": "3.38.1",
+            "Date": "03/Dicembre/2021"
+        },{
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.1",
+            "Latest": "4.7.2",
+            "Date": "03/Dicembre/2021"
+        },{
+            "Plugin": "Yoast SEO",
+            "Previous": "17.7",
+            "Latest": "17.7.1",
+            "Date": "02/Dicembre/2021"
+        },{
+            "Plugin": "White Label CMS",
+            "Previous": "2.2.4",
+            "Latest": "2.2.5",
+            "Date": "02/Dicembre/2021"
+        },{
+            "Theme": "OceanWP",
+            "Previous": "3.1.1",
+            "Latest": "3.1.2",
+            "Date": "02/Dicembre/2021"
+        },{
+            "Plugin": "Ocean Extra",
+            "Previous": "1.9.1",
+            "Latest": "1.9.2",
+            "Date": "02/Dicembre/2021"
+        },{
             "Plugin": "Yoast SEO",
             "Previous": "17.6",
             "Latest": "17.7",

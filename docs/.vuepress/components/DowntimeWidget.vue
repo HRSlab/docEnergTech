@@ -52,10 +52,19 @@
       </div>
       <span class="diffstat flex-auto" v-for="item in items" :key="item">
         <!-- Conditional Render Based on Envent -->
+        <!-- SUSPENDED -->
+        <span
+        style="width: 0.5625rem; height: 1rem; background-color: #ffa211; outline: 1px solid #ffa211;"
+        v-if="item.Suspended == true"
+        class="diffstat-block-added tooltipped tooltipped-n flex-auto"
+        :aria-label="' [ Suspended ] ' + item.DownTime + ' ' + item.To"
+        >
+
+        </span>
         <!-- DOWN -->
         <span
           style="width: 0.5625rem; height: 1rem"
-          v-if="item.Down == true"
+          v-else-if="item.Down == true"
           class="diffstat-block-deleted tooltipped tooltipped-n flex-auto"
           :aria-label="item.DownTime + ' ' + item.To"
         ></span>
