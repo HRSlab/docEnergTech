@@ -22,7 +22,7 @@ ySlow:
   result: 64%
   previous: D  (64%)
 Backup:
-  latest: 20 Novembre 2021
+  latest: 20 Dicembre 2021
   next: 2021-12-20
   details: [ "OceanWP v3.1.1", "Versione WP: 5.8.2", "Plugins: 28", "Numero di Posts: 2", "Commenti Approvati: 0" ]
   total:  393.72
@@ -35,7 +35,7 @@ Availability:
   up: 100
   downtimes: 0
   timedown: 0 Ore 0 Min
-  month: "Novembre"
+  month: "Dicembre"
 ---
 
 <main
@@ -58,20 +58,19 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
 "width": "400",
 "height": "400",
 "data": {
-"labels": ["1 Nov", "2 Nov", "3 Nov", "4 Nov", "5 Nov", "6 Nov", "7 Nov", "8 Nov", "9 Nov", "10 Nov", "11 Nov", "12 Nov", "13 Nov", "14 Nov", "15 Nov", "16 Nov", "17 Nov", "18 Nov", "19 Nov", "20 Nov", "21 Nov", "22 Nov", "23 Nov", "24 Nov", "25 Nov", "26 Nov",  "27 Nov", "28 Nov", "29 Nov", "30 Nov", "31 Nov" ],
+"labels": ["1 Dic", "2 Dic", "3 Dic", "4 Dic", "5 Dic", "6 Dic", "7 Dic", "8 Dic", "9 Dic", "10 Dic", "11 Dic", "12 Dic", "13 Dic", "14 Dic", "15 Dic", "16 Dic", "17 Dic", "18 Dic", "19 Dic", "20 Dic", "21 Dic", "22 Dic", "23 Dic", "24 Dic", "25 Dic", "26 Dic",  "27 Dic", "28 Dic", "29 Dic", "30 Dic", "31 Dic" ],
 "datasets": [
 {
 "label": "Tempo di Caricamento (s)",
-"data": [4, 4, 4, 4.1, 4.3, 4, 4.5, 4.3, 4.2, 4.5, 4, 2.8, 3.6, 3.7, 3.5, 3.5, 3.7, 3.6, 9.5, 4.0, 4.1, 4, 4.3, 4.3, 4.5, 2.8, 3.1, 9.5, 9.4, 9.6, 9.6 ],
+"data": [4 ],
 "backgroundColor": "rgba(186, 218, 85, 0.4)",
 "borderColor": "#bada55",
 "borderWidth": 1
 },
 {
 "label": "Dimensione Pagina (MB)",
-"data": [ 3.56, 3.54, 3.54, 3.55, 3.54, 3.54, 3.54, 3.54, 3.55, 3.55,
-          3.56, 3.55, 3.82, 3.54, 3.67, 3.58, 3.58, 3.72, 4.04, 3.54,
-          3.54, 3.54, 3.56, 3.68, 3.86, 3.54, 3.56, 4.04, 4, 4.04, 4.04
+"data": [ 3.56
+
         ],
 "backgroundColor": "rgba(117,85,218, 0.4)",
 "borderColor": "#7555da",
