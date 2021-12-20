@@ -1,6 +1,36 @@
 {
     "plugins": [{
             "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.5",
+            "Latest": "4.7.6",
+            "Date": "18/Dicembre/2021"
+        },{
+            "Plugin": "Yoast SEO",
+            "Previous": "17.7.1",
+            "Latest": "17.8",
+            "Date": "14/Dicembre/2021"
+        },{
+            "Plugin": "WordPress REST API Authentication",
+            "Previous": "1.6.5",
+            "Latest": "1.6.6",
+            "Date": "14/Dicembre/2021"
+        },{
+            "Plugin": "Essential Addons for Elementor",
+            "Previous": "4.9.6",
+            "Latest": "4.9.7",
+            "Date": "14/Dicembre/2021"
+        },{
+            "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.7.4",
+            "Latest": "4.7.5",
+            "Date": "14/Dicembre/2021"
+        },{
+            "Plugin": "Elementor",
+            "Previous": "3.4.8",
+            "Latest": "3.5.0",
+            "Date": "14/Dicembre/2021"
+        },{
+            "Plugin": "Premium Addons for Elementor",
             "Previous": "4.7.3",
             "Latest": "4.7.4",
             "Date": "10/Dicembre/2021"

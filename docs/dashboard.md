@@ -10,26 +10,26 @@ Optimization:
   revision:  0
   overhead: 387.6
 Perfomance:
-  date: 2021-12-12
-  loadTime: 2.405
+  date: 2021-12-20
+  loadTime: 1.348
   Region: London (UK)
 pageSpeed:
-  grade: C
-  result: 78%
-  previous: B (81%)
+  grade: B
+  result: 80%
+  previous: B (78%)
 ySlow:
-  grade: D
-  result: 64%
+  grade: C
+  result: 70%
   previous: D  (64%)
 Backup:
-  latest: 20 Novembre 2021
-  next: 2021-12-20
+  latest: 20 Dicembre 2021
+  next: 2022-01-20
   details: [ "OceanWP v3.1.1", "Versione WP: 5.8.2", "Plugins: 28", "Numero di Posts: 2", "Commenti Approvati: 0" ]
-  total:  393.72
-  files: 270.04
-  db: 123.32
+  total:  397.35
+  files: 274.02
+  db: 123.323
 Security:
-  latest: 2021-12-12T16:16:19
+  latest: 2021-12-20T06:12:39
   Checks: [ "Malware: Clean", "Vulnerabilities: Clean", "WebTrust: Clean" ]
 Availability:
   up: 100
@@ -62,14 +62,14 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
 "datasets": [
 {
 "label": "Tempo di Caricamento (s)",
-"data": [ 10, 10, 7, 4, 4, 9, 9, 7, 8.4, 8  ],
+"data": [ 10, 10, 7, 4, 4, 9, 9, 7, 8.4, 8, 8.4, 7.9, 8.2, 8.9, 11, 9.9, 10, 30, 19, 8  ],
 "backgroundColor": "rgba(186, 218, 85, 0.4)",
 "borderColor": "#bada55",
 "borderWidth": 1
 },
 {
 "label": "Dimensione Pagina (MB)",
-"data": [ 4.03, 4.00, 3.54, 3.79, 3.54, 4, 4.04, 4, 4, 3.54
+"data": [ 4.03, 4.00, 3.54, 3.79, 3.54, 4, 4.04, 4, 4, 3.54, 4.0, 4.5, 4.0, 4.6, 5.9, 5, 5.2, 6.8, 4.7, 4.9
 
         ],
 "backgroundColor": "rgba(117,85,218, 0.4)",
@@ -85,7 +85,7 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
 "display": true,
 "ticks": {
   "beginAtZero": false,
-  "max": 11,
+  "max": 35,
   "min": 0
 }
 }]
