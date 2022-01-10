@@ -11,7 +11,7 @@ Optimization:
   overhead: 5.8
 Perfomance:
   date: 2022-01-07
-  loadTime: 1.75
+  loadTime: 1.7
   Region: London (UK)
 pageSpeed:
   grade: B
