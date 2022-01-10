@@ -11,7 +11,7 @@ Optimization:
   overhead: 5.8
 Perfomance:
   date: 2022-01-07
-  loadTime: 1.757
+  loadTime: 1.75
   Region: London (UK)
 pageSpeed:
   grade: B
@@ -58,7 +58,12 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
 "width": "400",
 "height": "400",
 "data": {
-"labels": ["1 Dic", "2 Dic", "3 Dic", "4 Dic", "5 Dic", "6 Dic", "7 Dic", "8 Dic", "9 Dic", "10 Dic", "11 Dic", "12 Dic", "13 Dic", "14 Dic", "15 Dic", "16 Dic", "17 Dic", "18 Dic", "19 Dic", "20 Dic", "21 Dic", "22 Dic", "23 Dic", "24 Dic", "25 Dic", "26 Dic",  "27 Dic", "28 Dic", "29 Dic", "30 Dic", "31 Dic" ],
+"labels": ["1", "2", "3", "4", "5", "6", "7",
+            "8", "9", "10", "11", "12", "13",
+            "14", "15", "16", "17", "18", "19",
+            "20", "21", "22", "23c", "24", "25",
+            "26",  "27", "28", "29", "30", "31"
+            ],
 "datasets": [
 {
 "label": "Tempo di Caricamento (s)",
