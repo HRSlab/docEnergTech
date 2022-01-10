@@ -9,9 +9,9 @@
       <h1 class="Subhead-heading">Aggiornamenti</h1>
       <div
         class="
-        CircleBadge color-bg-accent-emphasis
+        CircleBadge color-bg-success-inverse
           Subhead-actions
-          color-fg-on-emphasis
+          color-text-white
           p-2
           CircleBadge
         "

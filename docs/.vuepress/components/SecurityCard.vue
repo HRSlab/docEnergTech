@@ -11,7 +11,7 @@
       <div
         class="
           Subhead-actions
-          color-bg-success-emphasis color-fg-on-emphasis
+          color-bg-success-inverse color-text-white
           p-2
           CircleBadge
           anim-hover-grow

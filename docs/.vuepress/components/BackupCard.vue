@@ -14,7 +14,7 @@
             rounded-1
             px-2
             py-1
-            color-bg-success-emphasis color-fg-on-emphasis
+            color-bg-success-inverse color-text-white
           "
           >{{ $frontmatter.Backup.latest }}</span
         >

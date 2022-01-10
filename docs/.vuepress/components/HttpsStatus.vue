@@ -11,7 +11,7 @@
         <span
           class="
             border
-            color-bg-success-emphasis color-fg-on-emphasis
+            color-bg-success-inverse color-text-white
             rounded
             px-2
             py-1
