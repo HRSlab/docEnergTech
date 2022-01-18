@@ -1,44 +1,4 @@
----
-pageClass: dashboard
-title: Dashboard
-sidebar: false
-copyright:
-  noCopy: true
-  noSelect: true
-Optimization:
-  spam: 0
-  revision:  0
-  overhead: 5.8
-Perfomance:
-  date: 2022-01-15
-  loadTime: 1.249
-  Region: London (UK)
-pageSpeed:
-  grade: B
-  result: 83%
-  previous: B (83%)
-ySlow:
-  grade: C
-  result: 77%
-  previous: B (81%)
-Backup:
-  latest: 20 Dicembre 2021
-  next: 2022-01-20
-  details: [ "OceanWP v3.1.1", "Versione WP: 5.8.2", "Plugins: 28", "Numero di Posts: 0", "Commenti Approvati: 0" ]
-  total:  397.35
-  files: 274.02
-  db: 123.33
-Security:
-  latest: 2022-01-15T11:37:00
-  Checks: [ "Malware: Clean", "Vulnerabilities: Clean", "WebTrust: Clean" ]
-Availability:
-  up: 100
-  downtimes: 0
-  timedown: 0 Ore 0 Min
-  month: "Gennaio"
----
-
-<main
+<template><main
     data-color-mode="auto"
     data-light-theme="light"
     data-dark-theme="dark_dimmed"
@@ -49,64 +9,56 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
 <div class="d-flex flex-wrap flex-justify-around flex-sm-items-center">
 <pageSpeed /> <ySlow />
 </div>
-
 <ChartBox>
-
-```chart
-{
-"type": "line",
-"width": "400",
-"height": "400",
-"data": {
-"labels": ["1", "2", "3", "4", "5", "6", "7",
-            "8", "9", "10", "11", "12", "13",
-            "14", "15", "16", "17", "18", "19",
-            "20", "21", "22", "23c", "24", "25",
-            "26",  "27", "28", "29", "30", "31"
+<Chart id="chart_1a96284c" data-code="{
+&quot;type&quot;: &quot;line&quot;,
+&quot;width&quot;: &quot;400&quot;,
+&quot;height&quot;: &quot;400&quot;,
+&quot;data&quot;: {
+&quot;labels&quot;: [&quot;1&quot;, &quot;2&quot;, &quot;3&quot;, &quot;4&quot;, &quot;5&quot;, &quot;6&quot;, &quot;7&quot;,
+            &quot;8&quot;, &quot;9&quot;, &quot;10&quot;, &quot;11&quot;, &quot;12&quot;, &quot;13&quot;,
+            &quot;14&quot;, &quot;15&quot;, &quot;16&quot;, &quot;17&quot;, &quot;18&quot;, &quot;19&quot;,
+            &quot;20&quot;, &quot;21&quot;, &quot;22&quot;, &quot;23c&quot;, &quot;24&quot;, &quot;25&quot;,
+            &quot;26&quot;,  &quot;27&quot;, &quot;28&quot;, &quot;29&quot;, &quot;30&quot;, &quot;31&quot;
             ],
-"datasets": [
+&quot;datasets&quot;: [
 {
-"label": "Tempo di Caricamento (s)",
-"data": [ 4, 6, 4, 7, 5, 5, 7,
-          8, 4, 4, 9, 7, 5, 6,
-          4, 4, 8
+&quot;label&quot;: &quot;Tempo di Caricamento (s)&quot;,
+&quot;data&quot;: [ 4, 6, 4, 7, 5, 5, 7,
+          8, 4
 
           ],
-"backgroundColor": "rgba(186, 218, 85, 0.4)",
-"borderColor": "#bada55",
-"borderWidth": 1
+&quot;backgroundColor&quot;: &quot;rgba(186, 218, 85, 0.4)&quot;,
+&quot;borderColor&quot;: &quot;#bada55&quot;,
+&quot;borderWidth&quot;: 1
 },
 {
-"label": "Dimensione Pagina (MB)",
-"data": [ 3.48, 3.48, 3.49, 3.48, 3.48, 3.50, 3.48,
-          3.49, 3.49, 3.47, 3.47, 3.48, 3.49, 3.49,
-          3.28, 3.48, 3.49
+&quot;label&quot;: &quot;Dimensione Pagina (MB)&quot;,
+&quot;data&quot;: [ 3.48, 3.48, 3.49, 3.48, 3.48, 3.50, 3.48,
+          3.49, 3.49
 
 
         ],
-"backgroundColor": "rgba(117,85,218, 0.4)",
-"borderColor": "#7555da",
-"borderWidth": 1
+&quot;backgroundColor&quot;: &quot;rgba(117,85,218, 0.4)&quot;,
+&quot;borderColor&quot;: &quot;#7555da&quot;,
+&quot;borderWidth&quot;: 1
 }
 ]
 },
-"options": {
-"scales": {
-"yAxes": [{
-"type": "linear",
-"display": true,
-"ticks": {
-  "beginAtZero": false,
-  "max": 20,
-  "min": 0
+&quot;options&quot;: {
+&quot;scales&quot;: {
+&quot;yAxes&quot;: [{
+&quot;type&quot;: &quot;linear&quot;,
+&quot;display&quot;: true,
+&quot;ticks&quot;: {
+  &quot;beginAtZero&quot;: false,
+  &quot;max&quot;: 20,
+  &quot;min&quot;: 0
 }
 }]
 }
 }
-}
-```
-</ChartBox>
-
+}"></Chart></ChartBox>
 <div class="border color-bg-subtle my-4" >
   <p class="f5 pl-6 pt-2">Video Test <span class="text-small Label Label--inline">2021-11-20</span> </p>
   <div class="d-flex flex-wrap flex-justify-around">
@@ -124,43 +76,25 @@ class="color-bg-subtle my-2 p-md-4 p-sm-2 border rounded col-sm-12 mx-1 col-md-8
       </video>
   </div>
 </div>
-
 <OptimizationWidget />
-
 <div class="container d-flex flex-column flex-sm-row">
   <DowntimeWidget class="col-sm-12 col-md-6 mx-auto" />
-
   <AxiosWp id="installed_plugins"  class="col-sm-12 col-md-6 color-bg-default rounded mt-3 color-bg-subtle">
-
   </AxiosWp>
 </div>
-
 </section>
-
-
 <section class="col-sm-12 col-md-3 mx-2">
-
-
 <BackupCard />
 <SecurityCard />
-
 <ScanBot />
-
 <HttpsStatus />
-
 <UpdatesCard>
-
 <ThemesTimeline />
 <PluginsTimeline />
-
-
-
 </UpdatesCard>
-
 </section>
-
-
 </main>
+</template>
 
 <style>
 

@@ -2,6 +2,18 @@
     "plugins": [
         {
             "Plugin": "Premium Addons for Elementor",
+            "Previous": "4.8.1",
+            "Latest": "4.8.2",
+            "Date": "13/Gennaio/2022"
+        },
+        {
+            "Plugin": "Yoast SEO",
+            "Previous": "17.8",
+            "Latest": "17.9",
+            "Date": "13/Gennaio/2022"
+        },
+        {
+            "Plugin": "Premium Addons for Elementor",
             "Previous": "4.8.0",
             "Latest": "4.8.1",
             "Date": "08/Gennaio/2022"
