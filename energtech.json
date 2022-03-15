@@ -11,20 +11,20 @@
 	"wpcoreUpdated": "1",
 	"pageLoad": "1.285",
 	"previouspageLoad": "1.279",
-	"pageSpeedScore": "46",
+	"pageSpeedScore": "81",
 	"previous": [
-		"Previous: B (87%)",
-		"Previous: B (87%)"
+		"Previous: B (78%)",
+		"Previous: B (70%)"
 	],
-	"slowScore": "46",
-	"lasReport": "09-February-2022,\n                    18:33:18",
+	"slowScore": "70",
+	"lasReport": "14-March-2022, 09:16:38",
 	"serverRegion": "Test server region: London, UK",
 	"upTime": "100%",
 	"responseTime": "2,25s",
-	"downTime": "11",
-	"downtimeDescription": "Downtime (6 Hrs 33 Mins)",
+	"downTime": "0",
+	"downtimeDescription": "Downtime (0 Hrs 0 Mins)",
 	"vunerabilityTotal": "Nessuna",
 	"webTrust": "Clean",
 	"malware": "Clean",
-	"lastCheck": "26-February-2022, 07:29:05"
+	"lastCheck": "14-March-2022, 09:16:38"
 }
