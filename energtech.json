@@ -4,31 +4,31 @@
 	"spamComments": "0",
 	"updateSummary": [
 		"7",
-		"Da20/Maggio/2022 a 26/Maggio/202"
+		"Da  28/Maggio/2022 a 04/Giugno/2022"
 	],
 	"pluginsUpdated": "4",
 	"themesUpdated": "2",
 	"wpcoreUpdated": "1",
-	"pageLoad": "  1.421",
+	"pageLoad": "3.409",
 	"previouspageLoad": "1.707",
-	"pageSpeedScore": "62",
+	"pageSpeedScore": "92",
 	"previous": [
 		"Previous: B (81%)",
-		"Previous: B (71%)"
+		"Previous: B (65%)"
 	],
-	"slowScore": "72",
-	"lasReport": "18-May-2022, 17:39:34",
-	"serverRegion": "Test server region: London, UK",
+	"slowScore": "65",
+	"lasReport": "04-June-2022, 10:48:10",
+	"serverRegion": "Test server region: Vancouver, Canada",
 	"upTime": "100%",
-	"responseTime": "2,1s",
+	"responseTime": "2.45s",
 	"downTime": "0",
 	"downtimeDescription": "Downtime (Durata: 0 days 0 Hrs 0 Mins )",
 	"vunerabilityTotal": "Nessuna",
 	"webTrust": "Clean",
 	"malware": "Clean",
-	"lastCheck": "27-May-2022, 15:58:43",
-	"pageSize": "3.49 ",
+	"lastCheck": "04-June-2022, 10:45:53",
+	"pageSize": "2.97 ",
 	"previouspageSize": "3.48 ",
-	"requests": "108",
+	"requests": "107",
 	"previousRequests": "109"
 }
