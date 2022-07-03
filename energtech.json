@@ -1,34 +1,34 @@
 {
-	"databaseOverhead": "0 KB",
+	"databaseOverhead": "2.78 MB",
 	"postRevision": "0",
 	"spamComments": "0",
 	"updateSummary": [
-		"3",
-		"Da 05/Giugno/2022 a 11/Giugno/2022"
+		"120",
+		"Da 02/Gennaio/2022 a 03/Luglio/202"
 	],
-	"pluginsUpdated": "3",
-	"themesUpdated": "0",
-	"wpcoreUpdated": "0",
-	"pageLoad": "1.411",
-	"previouspageLoad": "6.455",
+	"pluginsUpdated": "107",
+	"themesUpdated": "11",
+	"wpcoreUpdated": "2",
+	"pageLoad": "4.216",
+	"previouspageLoad": "1.479",
 	"pageSpeedScore": "92",
 	"previous": [
 		"Previous: A (92%)  ",
-		"Previous: D (65%)"
+		"Previous: D (71%)"
 	],
-	"slowScore": "71",
-	"lasReport": " 12-June-2022, 08:53:43",
-	"serverRegion": "Test server region: Vancouver, Canada",
-	"upTime": "100%",
-	"responseTime": "2,31s",
-	"downTime": "0",
-	"downtimeDescription": "Downtime (Durata: 0 days 0 Hrs 0 Mins )",
+	"slowScore": "65",
+	"lasReport": " 03-July-2022, 10:30:08",
+	"serverRegion": "Test server region: London, UK",
+	"upTime": "97.813%",
+	"responseTime": "2,19s",
+	"downTime": "2",
+	"downtimeDescription": "Downtime ( Durata: 4 days 0 Hrs 2 Mins  )",
 	"vunerabilityTotal": "Nessuna",
 	"webTrust": "Clean",
 	"malware": "Clean",
-	"lastCheck": " 12-June-2022, 08:53:47",
-	"pageSize": "1.41 ",
-	"previouspageSize": "1.47 ",
-	"requests": "102",
-	"previousRequests": "107"
+	"lastCheck": "03-July-2022, 10:29:36",
+	"pageSize": "1.42 ",
+	"previouspageSize": "1.42 ",
+	"requests": "104",
+	"previousRequests": "104"
 }
